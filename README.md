@@ -5,12 +5,16 @@
  - [CompTIA IT Fundamentals ITF+](https://www.credly.com/badges/923382e3-69b2-41eb-9f01-8e7ec9352a7b/linked_in_profile)
  - [Associate in Cyber Security and Networking](https://www.linkedin.com/in/michael-plaskett-8624a1117/details/education/1635546449647/single-media-viewer/?profileId=ACoAAB0VFYoBiKQnEO67jlCcFRXJ9ovMIpT6Xpo)
 
+<h2>🖥️ IT Projects: 
+
+
+  
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice 
+- <b>Data Structures and Algorithms Practice
   - [Praciting DS & Algos](https://github.com/zeroknightdx/ops_301_Challenge)
 - <b>Full Stack Web App (Learning Components)</b>
-  - [Analysis Middleware](https://github.com/zeroknightdx/ops_301_Challenge/blob/main/Malware_Analysis.py) <b><i>(Potentially NSFW)</b></i>
+  - [Analysis Middleware](https://github.com/zeroknightdx/ops_301_Challenge/blob/main/Malware_Analysis.py)
 - <b>PowerShell</b>
   - [Active Directory Bulk User Creation](https://github.com/zeroknightdx/ops_301_Challenge/blob/main/Create_users.ps1)
   - 
@@ -23,9 +27,6 @@
 
 [twitter](https://twitter.com/michaelplasket4)
 [linkedin](https://linkedin.com/in/michael-plaskett)
-
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
