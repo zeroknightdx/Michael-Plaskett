@@ -8,8 +8,8 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice 
-  - [Praciting DS & Algos in Python](https://github.com/zeroknightdx/ops_301_Challenge)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+  - [Praciting DS & Algos](https://github.com/zeroknightdx/ops_301_Challenge)
+- <b>Full Stack Web App (Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/zeroknightdx/ops_301_Challenge/blob/main/Malware_Analysis.py) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
   - [Active Directory Bulk User Creation](https://github.com/zeroknightdx/ops_301_Challenge/blob/main/Create_users.ps1)
