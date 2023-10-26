@@ -10,7 +10,7 @@
 - <b>Data Structures and Algorithms Practice 
   - [Praciting DS & Algos](https://github.com/zeroknightdx/ops_301_Challenge)
 - <b>Full Stack Web App (Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/zeroknightdx/ops_301_Challenge/blob/main/Malware_Analysis.py) <b><i>(Potentially NSFW)</b></i>
+  - [Analysis Middleware](https://github.com/zeroknightdx/ops_301_Challenge/blob/main/Malware_Analysis.py) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
   - [Active Directory Bulk User Creation](https://github.com/zeroknightdx/ops_301_Challenge/blob/main/Create_users.ps1)
   - 
