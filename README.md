@@ -25,7 +25,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[twitter](https://twitter.com/michaelplasket4)
+twitter
 
 [linkedin](https://linkedin.com/in/michael-plaskett)
 
